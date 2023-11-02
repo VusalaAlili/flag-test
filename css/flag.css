@@ -1,0 +1,24 @@
+#top{
+    width: 683px;
+    height: 173px;
+    background: #0098C3;
+}
+#center{
+    width: 683px;
+    height: 173px;
+    background: #E00034;
+}
+#icons img{
+    width: 260px;
+    height: 173px;
+}
+#icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#bottom{
+    width: 683px;
+    height: 173px;
+    background: #00AE65;
+}
